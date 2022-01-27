@@ -1,0 +1,17 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "firstName": "Barack",
+            "lastName": "Obama"
+            
+          },
+          
+          {
+            "id": 2,
+            "firstName": "Morgan",
+            "lastName": "Freeman"
+            
+          }
+    ]
+}
